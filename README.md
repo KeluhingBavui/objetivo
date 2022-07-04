@@ -1,8 +1,12 @@
 # Objetivo
 
+##About
+
+This project is part of our course subject, which is Web Programming. The system is developed by 7 of us group members, each with expertise of their own. This web application uses Laravel's framework and MySQL for the database. The aim of the system is to help individuals to set personal goals, manage and keep track of the progress of their goals.
+
 ## Requirements
 
-1. Everything that Laravel 9 requires
+1. All Laravel 9 dependencies
 2. NodeJS
 3. MySQL/MariaDB
 
